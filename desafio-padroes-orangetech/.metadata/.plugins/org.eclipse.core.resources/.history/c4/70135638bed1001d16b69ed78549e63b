@@ -1,0 +1,5 @@
+package desafio.orangetech.controller;
+
+public class ClienteRestController {
+
+}
